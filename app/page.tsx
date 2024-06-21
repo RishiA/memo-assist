@@ -6,20 +6,15 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Vertical Expansion Planning | SUI 
       </h1>
-      <p className="mb-4">
+    
         
       <p>
 				Justworks' mission is to help entrepreneurs and businesses grow with confidence. Until today, our PEO product has primarily enabled us to serve white-collar desk workers. But Justworks’ long-term success is predicated on fulfilling our mission for <em>all small businesses</em> regardless of their industry. 
 			</p>
 			<p>
-				&#xa0;
-			</p>
-			<p>
 				This memo details our focus and the investments required for the next 12-18 months to enable a best-in-class State Unemployment Program that disrupts the industry and advances Justworks into a future where we support a diverse range of businesses leveraging a key strategic program: Vertical Expansion.
 			</p>
-			<p>
-				&#xa0;
-			</p>
+			
 			<p>
 				These investments are key as they set the stage for our growth over the next year and a half, allowing us to uphold our mission and vision across all product lines.&#xa0; 
 			</p>
@@ -58,9 +53,6 @@ export default function Page() {
 					<strong>Strategic Account Maintenance: </strong>Enhancing our efforts with focused account maintenance to ensure we meet compliance standards and maintain the integrity of our SUI program.<br /><br />
           </li>
         </ol>
-      
-            
-      </p>
      
     </section>
   )
