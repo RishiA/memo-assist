@@ -7,7 +7,7 @@ export default function Page() {
         Vertical Expansion Planning | SUI 
       </h1>
       <p className="mb-4">
-        {
+        
           
           Justworks' mission is to help entrepreneurs and businesses grow with confidence. Until today, our PEO product has primarily enabled us to serve white-collar desk workers. But Justworks' long-term success is predicated on fulfilling our mission for _all small businesses_ regardless of their industry.
           
@@ -522,7 +522,7 @@ export default function Page() {
           6. SIDES = State Information Data Exchange System. It is a software tool that empowers states, employers, and PEOs to electronically, accurately, and securely respond to unemployment insurance requests. [↑](#footnote-ref-5)
 
 
-        }
+        
       </p>
       <div className="my-8">
         <BlogPosts />
