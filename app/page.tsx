@@ -30,10 +30,8 @@ export default function Page() {
 			<p>
 				<a id="yd4bfhrp12qq"></a>To elevate our SUI program into a comprehensive industry-leading platform and&#xa0; make it a major driver of growth, we are focused on the following areas - 
 			</p>
-			<p>
-				&#xa0;
-			</p>
-			<ol>
+		
+			<ul>
 				<li>
 					<strong>Strategic Underwriting:</strong> Boosting our SUI underwriting capabilities with technology to serve a diverse portfolio of businesses.<br />&#xa0;
 				</li>
@@ -52,7 +50,7 @@ export default function Page() {
 				<li>
 					<strong>Strategic Account Maintenance: </strong>Enhancing our efforts with focused account maintenance to ensure we meet compliance standards and maintain the integrity of our SUI program.<br /><br />
           </li>
-        </ol>
+        </ul>
      
     </section>
   )
