@@ -87,6 +87,8 @@ export default function Page() {
 	<br/>
     <p>Addressing such diverse requirements is critical for our expansion. We must explore how SUI, leveraged through our Multi-PEO strategy, can adapt to varied business profiles, enabling us to not just attract but effectively support a broader client base.</p>
 	<br/><br/>
+	
+	<section id="Multipeo">
     <h2><strong>SUI and Multi-PEO</strong></h2>
     <p>Justworks has historically seen impressive growth, exceeding 30% year-over-year, primarily by catering to white-collar industries. However, recent economic downturns, exemplified by the "white-collar recession" and high-profile events like the Silicon Valley Bank collapse, have exposed vulnerabilities associated with focusing too narrowly on specific sectors. These developments have reinforced the necessity of diversifying our customer base to maintain robust growth trajectories.</p>
 	<br/>
@@ -98,7 +100,7 @@ export default function Page() {
 	<br/>
     <p>Thus, SUI not only serves as a differentiator for Justworks but also as a critical mechanism for enhancing our service offerings across diverse business landscapes.</p>
 
-
+	</section>
      
     </section>
   )
