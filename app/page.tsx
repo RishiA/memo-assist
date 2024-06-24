@@ -52,14 +52,14 @@ export default function Page() {
 					<strong>Strategic Account Maintenance: </strong>Enhancing our efforts with focused account maintenance to ensure we meet compliance standards and maintain the integrity of our SUI program.<br /><br />
           </li>
         </ol>
-		<hr/>
+		<hr/><br/>
 		<h2><strong>SUI Context</strong></h2>
     <p>As we look to elevate our SUI program into a robust platform for growth, it's essential to understand the foundations of State Unemployment Insurance and its impact on our strategic direction.</p>
 	<br/>
     <p>State Unemployment Insurance (SUI) is a state-by-state program that employers pay into, as required by both Federal and State law. It's there to help workers with financial support if they lose their jobs and are looking for new employment. This insurance is mandatory in every state where a company has employees, meaning businesses need to get a state specific SUI account number and make payments into the system.</p>
 <br/>
     <p>The reason employers need SUI is to ensure their employees have some income support if their jobs are terminated. While the federal government sets the overall rules for this insurance, each state decides the specific benefits an unemployed worker can get. The program is funded by taxes from both the employer's and employee's income, known as FUTA (Federal Unemployment Tax Act) at the federal level and SUI (or sometimes SUTA - State Unemployment Tax Act) at the state level. As a small business adds employees in multiple states, keeping up with these requirements becomes increasingly complex and important.</p>
-
+	<br/>
     <h2><strong>Wage Base</strong></h2>
     <p>In the context of SUI tax, a "wage base" is the maximum amount of an employee's earnings that can be taxed in a given year. Each state sets its own wage base for calculating SUI taxes. This means that once an employee's earnings exceed the state's specified wage base amount during a year, any additional income is not subject to SUI tax. For example, if a state's wage base is $10,000, and an employee earns $95,000 in a year, SUI taxes would only be calculated on the first $10,000. While the wage base typically resets on January 1st for most states, it is essential to note that an employee's wage base is reset when they change employers, even if it occurs mid-year.</p>
 <br/>
@@ -71,7 +71,7 @@ export default function Page() {
         <li><strong>PEO Reporting:</strong> In states that recognize the PEO model, the PEO is considered the employer of record and is assigned an unemployment rate by the state. This arrangement allows PEOs to potentially charge their clients a rate that includes a margin, providing an opportunity for revenue through rate spreads. Currently, our average rate spread is 1.7%, and in FY24 this generated $37.7m of revenue. Today 81% of the WSEs (Worksite Employees) in the PEO are in PEO reporting states.</li>
         <li><strong>Client Reporting:</strong> In contrast, in states that do not recognize the PEO model, each business is responsible for its own unemployment insurance, reporting directly to the state and managing its own SUI rate and compliance.</li>
     </ul>
-	<hr/>
+	<hr/><br/>
     <h2><strong>SUI at Justworks</strong></h2>
     <p>We have traditionally used 3rd parties for important SUI functions such as annual PEO SUI rate setting and claims, and since we did not have the apparatus to manage risk effectively (multiple PEOs), we did not have an underwriting function in SUI. These limitations did not enable us to achieve our strategic and financial goals, created competitive disadvantages, and stifled our longer term potential. In FY24, we started shifting away from relying on external partners, and established the basics for SUI underwriting. As we enter FY25, we are building our own technology and operational capabilities to manage unemployment insurance more effectively, thus transforming our approach to State Unemployment Insurance. This includes improvements in underwriting, claims handling, and rate management. This shift is critical for improving management, compliance, and unlocking financial opportunities.</p>
 <br/>
@@ -86,8 +86,8 @@ export default function Page() {
     <p>These differences highlight that not only are these businesses distinct, but their needs are also varied. While we can currently support Eigen Software and aid their growth with our existing PEO structure, we are unable to accommodate Water St Bar & Grill's needs and risk profile, leading us to decline their business.</p>
 	<br/>
     <p>Addressing such diverse requirements is critical for our expansion. We must explore how SUI, leveraged through our Multi-PEO strategy, can adapt to varied business profiles, enabling us to not just attract but effectively support a broader client base.</p>
-	<br/><br/>
-	<hr/>
+	<br/>
+	<hr/><br/>
 	<section id="Multipeo">
     <h2><strong>SUI and Multi-PEO</strong></h2>
     <p>Justworks has historically seen impressive growth, exceeding 30% year-over-year, primarily by catering to white-collar industries. However, recent economic downturns, exemplified by the "white-collar recession" and high-profile events like the Silicon Valley Bank collapse, have exposed vulnerabilities associated with focusing too narrowly on specific sectors. These developments have reinforced the necessity of diversifying our customer base to maintain robust growth trajectories.</p>
