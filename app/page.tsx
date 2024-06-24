@@ -4,8 +4,8 @@ import { BlogPosts } from 'app/components/posts'
 export default function Page() {
   return (
     <section>
-      <h1>
-        Vertical Expansion Planning | SUI 
+      <h1><strong>
+        Vertical Expansion Planning | SUI </strong>
       </h1>
     
         
