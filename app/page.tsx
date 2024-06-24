@@ -8,7 +8,7 @@ export default function Page() {
         Vertical Expansion Planning | SUI </strong>
       </h1>
     
-        
+        <br/>
       <p>
 				Justworks' mission is to help entrepreneurs and businesses grow with confidence. Until today, our PEO product has primarily enabled us to serve white-collar desk workers. But Justworks' long-term success is predicated on fulfilling our mission for <em>all small businesses</em> regardless of their industry. 
 			</p>
@@ -52,7 +52,7 @@ export default function Page() {
 					<strong>Strategic Account Maintenance: </strong>Enhancing our efforts with focused account maintenance to ensure we meet compliance standards and maintain the integrity of our SUI program.<br /><br />
           </li>
         </ol>
-
+		<hr/>
 		<h2><strong>SUI Context</strong></h2>
     <p>As we look to elevate our SUI program into a robust platform for growth, it's essential to understand the foundations of State Unemployment Insurance and its impact on our strategic direction.</p>
 	<br/>
@@ -71,7 +71,7 @@ export default function Page() {
         <li><strong>PEO Reporting:</strong> In states that recognize the PEO model, the PEO is considered the employer of record and is assigned an unemployment rate by the state. This arrangement allows PEOs to potentially charge their clients a rate that includes a margin, providing an opportunity for revenue through rate spreads. Currently, our average rate spread is 1.7%, and in FY24 this generated $37.7m of revenue. Today 81% of the WSEs (Worksite Employees) in the PEO are in PEO reporting states.</li>
         <li><strong>Client Reporting:</strong> In contrast, in states that do not recognize the PEO model, each business is responsible for its own unemployment insurance, reporting directly to the state and managing its own SUI rate and compliance.</li>
     </ul>
-
+	<hr/>
     <h2><strong>SUI at Justworks</strong></h2>
     <p>We have traditionally used 3rd parties for important SUI functions such as annual PEO SUI rate setting and claims, and since we did not have the apparatus to manage risk effectively (multiple PEOs), we did not have an underwriting function in SUI. These limitations did not enable us to achieve our strategic and financial goals, created competitive disadvantages, and stifled our longer term potential. In FY24, we started shifting away from relying on external partners, and established the basics for SUI underwriting. As we enter FY25, we are building our own technology and operational capabilities to manage unemployment insurance more effectively, thus transforming our approach to State Unemployment Insurance. This includes improvements in underwriting, claims handling, and rate management. This shift is critical for improving management, compliance, and unlocking financial opportunities.</p>
 <br/>
@@ -87,7 +87,7 @@ export default function Page() {
 	<br/>
     <p>Addressing such diverse requirements is critical for our expansion. We must explore how SUI, leveraged through our Multi-PEO strategy, can adapt to varied business profiles, enabling us to not just attract but effectively support a broader client base.</p>
 	<br/><br/>
-	
+	<hr/>
 	<section id="Multipeo">
     <h2><strong>SUI and Multi-PEO</strong></h2>
     <p>Justworks has historically seen impressive growth, exceeding 30% year-over-year, primarily by catering to white-collar industries. However, recent economic downturns, exemplified by the "white-collar recession" and high-profile events like the Silicon Valley Bank collapse, have exposed vulnerabilities associated with focusing too narrowly on specific sectors. These developments have reinforced the necessity of diversifying our customer base to maintain robust growth trajectories.</p>
