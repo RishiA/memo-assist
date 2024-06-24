@@ -1,5 +1,6 @@
 import { BlogPosts } from 'app/components/posts'
 
+
 export default function Page() {
   return (
     <section>
@@ -9,7 +10,7 @@ export default function Page() {
     
         
       <p>
-				Justworks' mission is to help entrepreneurs and businesses grow with confidence. Until today, our PEO product has primarily enabled us to serve white-collar desk workers. But Justworks’ long-term success is predicated on fulfilling our mission for <em>all small businesses</em> regardless of their industry. 
+				Justworks' mission is to help entrepreneurs and businesses grow with confidence. Until today, our PEO product has primarily enabled us to serve white-collar desk workers. But Justworks' long-term success is predicated on fulfilling our mission for <em>all small businesses</em> regardless of their industry. 
 			</p>
 			<p>
 				This memo details our focus and the investments required for the next 12-18 months to enable a best-in-class State Unemployment Program that disrupts the industry and advances Justworks into a future where we support a diverse range of businesses leveraging a key strategic program: Vertical Expansion.
@@ -29,7 +30,7 @@ export default function Page() {
 			</p>
 			<p>
 				To elevate our SUI program into a comprehensive industry-leading platform and make it a major driver of growth, we are focused on the following areas &mdash; 
-			</p>
+			</p><br/>
 		
 			<ol>
 				<li>
